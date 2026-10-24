@@ -1,0 +1,2 @@
+# Zenith-Ai
+Normal ai
